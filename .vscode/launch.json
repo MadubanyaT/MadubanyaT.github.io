@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "d:\\Work\\Websites Resources\\Personal Website\\wwwroot\\index.html"
+            "file": "d:\\Work\\Websites Resources\\Personal Website\\Portfolio\\index.html"
         }
     ]
 }
