@@ -83,7 +83,20 @@ h3{
     color: #445069;
 }
 
-.img-thu{
-    height: 50px;
-    width: 100px;
+.footer-link:hover{
+    color: #0e92ef;
+}
+
+.img-th{
+    height: 190px;
+    width: 350px;
+} 
+
+.proj-bg{
+    background-color: #d8d8d8d8;
+    padding: 5px;
+}
+
+.p-span{
+    width: 370px;
 }
