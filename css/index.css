@@ -7,35 +7,35 @@ body{
 }
 
 .sac{
-    font-family: 'Sacramento', cursive;
     font-size: 4rem;
+    color: #c2d4eb;
 }
 
 h1{
     color: #111;
     margin-top: 0;
-    font-family: 'Oldenburg', sans-serif;
+    font-family: 'Comfortaa', sans-serif;
     font-size: 4rem;
     font-weight: bolder;
     
 }
 
 h2{
-    color: #3987e0;
-    font-family: 'Ysabeau Office', sans-serif;
     font-size: 1.75rem;
     font-weight: bold;
 }
 
-h3{
-    color: #1D5B79;
-    font-family: 'Ysabeau Office', sans-serif;
-    font-weight: normal;
+.cmIntro{
+    color: #EEF5FF;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+    margin-left: 80px;
+    margin-right: 80px;
 }
 
 .top-container{
     /* background-color: #78C1F3; */
-    background-image: url(../images/background2.jpg);
+    background-image: url(../images/background.jpg);
     position: relative;
     height: 700px;
     background-position: center;
@@ -99,4 +99,5 @@ h3{
 
 .p-span{
     width: 370px;
+    text-decoration: none;
 }
