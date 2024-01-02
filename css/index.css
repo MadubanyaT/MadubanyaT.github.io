@@ -29,8 +29,8 @@ h2{
     color: #EEF5FF;
     font-family: 'Montserrat', sans-serif;
     font-weight: bolder;
-    margin-left: 80px;
-    margin-right: 80px;
+    margin-left: 60px;
+    margin-right: 60px;
 }
 
 .top-container{
@@ -41,7 +41,7 @@ h2{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-top: 140px;
+    padding-top: 110px;
 }
 
 .prof{
